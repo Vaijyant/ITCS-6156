@@ -1,9 +1,9 @@
-# ITCS-6156
+# ITCS-6156: Machine Learning
 
 ## Author
 Vaijyant Tomar
 
-#### Technologies
+#### Technologies/Tags
 Python, Spyder, PyCharm, Machine Learning
 
 ### About
